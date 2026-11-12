@@ -1,0 +1,23 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "name": "Debug: main.py (cost)",
+        "type": "python",
+        "request": "launch",
+        "program": "${workspaceFolder}/main.py",
+        "cwd": "${workspaceFolder}",
+        "console": "integratedTerminal",
+        "env": {
+          "PYTHONPATH": "${workspaceFolder}${pathSeparator}${workspaceFolder}/Ray_Code${pathSeparator}${env:PYTHONPATH}"
+        },
+        "args": [
+          "cost_export9.xlsx",
+          "--tc", "included",
+          "--unposted", "excluded",
+          "--add-columns", ""
+        ],
+        "justMyCode": true
+      }
+    ]
+  }

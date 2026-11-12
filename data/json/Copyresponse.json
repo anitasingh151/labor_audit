@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "name": "11625 : Wlm R. Peck Middle School",
+      "is_time_card": 0,
+      "is_committed_cost": 0,
+      "is_unposted_quantity": 0,
+      "cost_per_hour": 80,
+       "id": 4,
+        "companyCredential": {
+        "company_code": "MLS"
+      },
+      
+      "erpLabourCode": [
+        {
+          "company_id": 4,
+          "name": "1",
+          "code_order": 1,
+          "id": 683,
+          "created": "2025-07-25T08:28:34.000Z",
+          "modified": "2025-07-25T08:28:34.000Z"
+        }
+      ]
+    },
+    {
+      "name": "11595 : UMASS Goodell Renovation",
+      "is_time_card": 0,
+      "is_committed_cost": 0,
+      "is_unposted_quantity": 0,
+      "cost_per_hour": 80,
+      
+      "id": 24,
+      "companyCredential": {
+        
+        "company_code": "KLE"
+        
+      },
+      "erpLabourCode": [
+        {
+          "company_id": 24,
+          "name": "L",
+          "code_order": 1,
+          "id": 684,
+          "created": "2025-07-25T08:28:41.000Z",
+          "modified": "2025-07-25T08:28:41.000Z"
+        },
+        {
+          "company_id": 24,
+          "name": "FLA",
+          "code_order": 2,
+          "id": 685,
+          "created": "2025-07-25T08:28:41.000Z",
+          "modified": "2025-07-25T08:28:41.000Z"
+        }
+      ]
+    },
+    
+    {
+      "name": "11561 : Westover ISO Hangar",
+      
+      "is_time_card": 0,
+
+      "is_committed_cost": 0,
+      "is_unposted_quantity": 0,
+      "cost_per_hour": 80,
+      "id": 38,
+      "companyCredential": {
+        "company_id": "A001",
+        
+        "company_code": "091,096,006,007,080"
+        
+      },
+      "erpLabourCode": [
+        {
+          "company_id": 38,
+          "name": "L",
+          "code_order": 1,
+          "id": 687,
+          "created": "2025-07-25T08:28:57.000Z",
+          "modified": "2025-07-25T08:28:57.000Z"
+        }
+      ]
+    }
+  ]
+}

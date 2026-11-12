@@ -1,0 +1,37 @@
+{
+    "data": [
+        {            
+            "is_time_card": 0,
+            "is_committed_cost": 0,
+            "is_unposted_quantity": 0,
+            "cost_per_hour": 80,
+            "company_code": "MLS",
+            "cost_type":["2"],
+            "project_threshold":10
+        },
+        {
+
+            "is_time_card": 0,
+            "is_committed_cost": 0,
+            "is_unposted_quantity": 0,
+            "cost_per_hour": 40,
+            "company_code": "KLE",
+            "cost_type":["FLA"],
+            "project_threshold":20
+        },
+        {            
+            "is_time_card": 0,
+            "is_committed_cost": 0,
+            "is_unposted_quantity": 0,
+            "cost_per_hour": 80,
+            "company_code": "MLS",
+            "cost_type":"1",
+
+            "tc_hours": 10,
+            "default_rate": 75,
+            "threshold": 10,
+            "jtd_cost": 5,
+            "jtd_actual_dollars": 100
+        }
+    ]
+}
